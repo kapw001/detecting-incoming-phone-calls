@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7a0adbac02fbcadb9ebeff8e3edbeb85a9c571fd">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_513aec314a50a8c6e0b293c4a47dec98260bcfbe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.android/build-cache/7cf4315d2b47700caf3803b04ec49b56a0836286/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_03c9abc7f7fd6a9c9115a19fe666fc39f403f50a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.android/build-cache/453743626c8f0f9f5fbbb9ac12615cd4a2aaacba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e25b5781aa83c0906e6fb757f81f2f89c261979e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_6734d662eac9c6473e34e6e32835fd2b6767bf90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.android/build-cache/3b2125794bec518b10bac4e58f39b0585f4cbdf3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e72f59d29c7b7c7572f9d53c3298d669e5f2509d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.android/build-cache/2b624a8009003324dc33a592185e98161e0f1d14/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_147668b0d71d618f07905948735af86147c3343c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_372716b40734aac3741080cf6ad07efca47f7f1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.android/build-cache/0a4b8e59b9c0baf3a4c9f01317c8701ff451c418/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_16ff3937de58541dc4ca802a194fa0a6e9234244/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/.android/build-cache/453743626c8f0f9f5fbbb9ac12615cd4a2aaacba/output/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.2.0_35295a1b9e6e316ae3c562919ec975f21b43f813/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/yasar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/yasar/Downloads/new_download/detecting-incoming-phone-calls-in-android-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.2.0_a8ce49d02633ab99f698fda3062283dcb7e7d873/classes.dex" />
+    </item>
+
+</items>
